@@ -1,0 +1,17 @@
+{
+  "navigationBarTitleText": "首页",
+  "usingComponents": {
+    "wux-fab-button": "/pages/vux//fab-button/index",
+    "wux-notice-bar": "/pages/vux/notice-bar/index",
+    "wux-white-space": "/pages/vux/white-space/index",
+    "wux-wing-blank": "/pages/vux/wing-blank/index",
+    "wux-icon": "/pages/vux/icon/index",
+    "wux-grids": "/pages/vux/grids/index",
+    "wux-grid": "/pages/vux/grid/index",
+    "wux-cell-group": "/pages/vux/cell-group/index",
+    "wux-cell": "/pages/vux/cell/index",
+    "wux-row": "/pages/vux/row/index",
+    "wux-col": "/pages/vux/col/index"
+  },
+  "enablePullDownRefresh": true
+}
